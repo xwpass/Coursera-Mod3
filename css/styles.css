@@ -25,4 +25,7 @@
     margin-right: auto;
     width: 85%;
 }
+.navbar-header h1 {
+margin-left: 20px;
+}
 }
